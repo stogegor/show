@@ -2,7 +2,7 @@ from turtle import *
 tl = list()
 turtle_color = list()
 for i in range(5):
-   turtle_color.append('red')
+   turtle_color.append('blue')
    turtle_color.append('orange')
    turtle_color.append('yellow')
    turtle_color.append('green')
